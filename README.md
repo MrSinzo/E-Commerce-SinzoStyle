@@ -27,10 +27,10 @@ Companies are ever-expanding into the tech world, have a large vareity of custom
 This application used a vareity of NPM packages like Express.js, dotenv, Mysql, and squelize. There is a large amount of JavaScript that brings the functionallity of the program to life!
 
 ## Screenshot of working application and Video Walkthrough
-![ScreenShot of Deplyed Application](/.png)
+![ScreenShot of Deplyed Application](/HMWK-13.png)
 
 Video Walkthrough link below!
-
+https://drive.google.com/file/d/1VX3YABPchv1NotfWKrcrIOhYR2BdyZGg/view?usp=share_link
 
 ## Credits and Licenses
 Using MIT License [Check it here!](https://opensource.org/licenses/MIT)
